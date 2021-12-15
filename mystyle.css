@@ -1,0 +1,7 @@
+em {font-weight:lighter; }
+p, em{color:blue;text-decoration: overline;font-size:x-small;  }
+h1{font-weight:critter, times new roman, fixedsys; text-decoration:underline; color: purple; }
+h2{font-weight: futura, times new roman, fixedsys; text-decoration:overline;color:red;  }
+h3{font-weight:critter, times new roman, fixedsys; text-decoration:line-through;color:green}
+span{color:green; border: 2px solid black;}
+.extra span{color:inherit;}
